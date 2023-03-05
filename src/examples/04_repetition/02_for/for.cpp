@@ -11,7 +11,14 @@ RESULT:
 2
 3
 4
-5
-
+5 
 */
+int display_numbers(int num);
+{
+    for(auto i = 0; i < num; i++)
+    {
+        sum = i * i + sum;
 
+        cout<<i + 1>>"|n";
+}
+{\}

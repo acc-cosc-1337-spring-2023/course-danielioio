@@ -5,4 +5,4 @@
 
 //write function prototype named display that accepts a string and returns void
 
-
+int sum of squares(int num);
