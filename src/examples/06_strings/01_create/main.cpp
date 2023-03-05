@@ -8,6 +8,7 @@ int main()
 {
     string lang = "C++";
     int num = 5;
+    
     cout<<"Address of lang :"<<&lang<<"\n";
     cout<<"Address of num: "<<&num<<"\n";
     cout<<lang[1]<<"\n";

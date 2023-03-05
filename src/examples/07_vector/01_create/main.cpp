@@ -31,7 +31,7 @@ int main()
     cout<<letters.capacity()<<"\n""\n";
 
     //create vector
-    vecto<char> all_As(10, "a");
+    vector<char> all_As(10, "a");
 
     for(auto ch: all_As)
     {
